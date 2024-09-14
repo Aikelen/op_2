@@ -17,7 +17,7 @@ public class Main {
         if (clientOS_2 == 0) {
             if (clientDeviceYear == 0) {
                 System.out.println("Установите облегченную версию приложения для iOS по ссылке");
-            } else { System.out.println("Установите версию приложения для IOS по ссылке"); }
+            } else { System.out.println("Установите версию приложения для iOS по ссылке"); }
         }
         else {
             if (clientDeviceYear == 0) {
